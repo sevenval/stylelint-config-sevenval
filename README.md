@@ -1,3 +1,7 @@
+# This repository has moved to [frontend-configs](https://github.com/sevenval/frontend-configs/tree/master/packages/stylelint-config-sevenval)
+
+Please follow the link to open new issues and PRs.
+
 # Sevenval CSS/Sass Linter Rules
 
 [![NPM version](http://img.shields.io/npm/v/stylelint-config-sevenval.svg)](https://www.npmjs.org/package/stylelint-config-sevenval) [![Build Status](https://travis-ci.org/sevenval/stylelint-config-sevenval.svg?branch=master)](https://travis-ci.org/sevenval/stylelint-config-sevenval)
